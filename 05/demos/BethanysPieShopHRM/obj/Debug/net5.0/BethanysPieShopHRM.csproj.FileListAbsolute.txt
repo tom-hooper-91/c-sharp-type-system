@@ -1,0 +1,15 @@
+/Users/tomhooper/workspace/c-sharp-type-system/05/demos/BethanysPieShopHRM/bin/Debug/net5.0/BethanysPieShopHRM.deps.json
+/Users/tomhooper/workspace/c-sharp-type-system/05/demos/BethanysPieShopHRM/bin/Debug/net5.0/BethanysPieShopHRM.runtimeconfig.json
+/Users/tomhooper/workspace/c-sharp-type-system/05/demos/BethanysPieShopHRM/bin/Debug/net5.0/BethanysPieShopHRM.runtimeconfig.dev.json
+/Users/tomhooper/workspace/c-sharp-type-system/05/demos/BethanysPieShopHRM/bin/Debug/net5.0/BethanysPieShopHRM.dll
+/Users/tomhooper/workspace/c-sharp-type-system/05/demos/BethanysPieShopHRM/bin/Debug/net5.0/ref/BethanysPieShopHRM.dll
+/Users/tomhooper/workspace/c-sharp-type-system/05/demos/BethanysPieShopHRM/bin/Debug/net5.0/BethanysPieShopHRM.pdb
+/Users/tomhooper/workspace/c-sharp-type-system/05/demos/BethanysPieShopHRM/obj/Debug/net5.0/BethanysPieShopHRM.csproj.AssemblyReference.cache
+/Users/tomhooper/workspace/c-sharp-type-system/05/demos/BethanysPieShopHRM/obj/Debug/net5.0/BethanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomhooper/workspace/c-sharp-type-system/05/demos/BethanysPieShopHRM/obj/Debug/net5.0/BethanysPieShopHRM.AssemblyInfoInputs.cache
+/Users/tomhooper/workspace/c-sharp-type-system/05/demos/BethanysPieShopHRM/obj/Debug/net5.0/BethanysPieShopHRM.AssemblyInfo.cs
+/Users/tomhooper/workspace/c-sharp-type-system/05/demos/BethanysPieShopHRM/obj/Debug/net5.0/BethanysPieShopHRM.csproj.CoreCompileInputs.cache
+/Users/tomhooper/workspace/c-sharp-type-system/05/demos/BethanysPieShopHRM/obj/Debug/net5.0/BethanysPieShopHRM.dll
+/Users/tomhooper/workspace/c-sharp-type-system/05/demos/BethanysPieShopHRM/obj/Debug/net5.0/ref/BethanysPieShopHRM.dll
+/Users/tomhooper/workspace/c-sharp-type-system/05/demos/BethanysPieShopHRM/obj/Debug/net5.0/BethanysPieShopHRM.pdb
+/Users/tomhooper/workspace/c-sharp-type-system/05/demos/BethanysPieShopHRM/obj/Debug/net5.0/BethanysPieShopHRM.genruntimeconfig.cache
