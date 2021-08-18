@@ -29,6 +29,7 @@ namespace BethanysPieShopHRMEmployeeApp
                 Console.WriteLine("1: Register employee");
                 Console.WriteLine("2: Register work hours for employee");
                 Console.WriteLine("3: Pay employee");
+                Console.WriteLine("4: Update employee hourly rate");
                 Console.WriteLine("9: Quit application");
 
                 userSelection = Console.ReadLine();
@@ -40,6 +41,8 @@ namespace BethanysPieShopHRMEmployeeApp
                     case "2": RegisterWork();
                         break;
                     case "3": PayEmployee();
+                        break;
+                    case "4": UpdateHourlyRate();
                         break;
                     case "9": break;
                     default:
@@ -53,6 +56,28 @@ namespace BethanysPieShopHRMEmployeeApp
             Console.Read();
 
         }
+
+        private static void UpdateHourlyRate()
+        {
+            Console.WriteLine("Select an employee");
+
+            for (int i = 0; i < employees.Count; i++)
+            {
+                Console.WriteLine($"{i + 1}: {employees[i].FirstName} {employees[i].LastName}");
+            }
+
+            int selection = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Enter new hourly rate");
+
+            int newRate = int.Parse(Console.ReadLine());
+
+            employees[selection - 1].HourlyRate = newRate;
+
+            Console.WriteLine("Rate updated!\n\n");
+
+        }
+
         private static void RegisterEmployee()
         {
             Console.WriteLine("Creating an employee");

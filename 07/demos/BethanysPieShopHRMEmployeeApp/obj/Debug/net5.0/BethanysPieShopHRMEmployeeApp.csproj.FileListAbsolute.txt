@@ -1,0 +1,15 @@
+/Users/tomhooper/workspace/c-sharp-type-system/07/demos/BethanysPieShopHRMEmployeeApp/bin/Debug/net5.0/BethanysPieShopHRMEmployeeApp.deps.json
+/Users/tomhooper/workspace/c-sharp-type-system/07/demos/BethanysPieShopHRMEmployeeApp/bin/Debug/net5.0/BethanysPieShopHRMEmployeeApp.runtimeconfig.json
+/Users/tomhooper/workspace/c-sharp-type-system/07/demos/BethanysPieShopHRMEmployeeApp/bin/Debug/net5.0/BethanysPieShopHRMEmployeeApp.runtimeconfig.dev.json
+/Users/tomhooper/workspace/c-sharp-type-system/07/demos/BethanysPieShopHRMEmployeeApp/bin/Debug/net5.0/BethanysPieShopHRMEmployeeApp.dll
+/Users/tomhooper/workspace/c-sharp-type-system/07/demos/BethanysPieShopHRMEmployeeApp/bin/Debug/net5.0/ref/BethanysPieShopHRMEmployeeApp.dll
+/Users/tomhooper/workspace/c-sharp-type-system/07/demos/BethanysPieShopHRMEmployeeApp/bin/Debug/net5.0/BethanysPieShopHRMEmployeeApp.pdb
+/Users/tomhooper/workspace/c-sharp-type-system/07/demos/BethanysPieShopHRMEmployeeApp/obj/Debug/net5.0/BethanysPieShopHRMEmployeeApp.csproj.AssemblyReference.cache
+/Users/tomhooper/workspace/c-sharp-type-system/07/demos/BethanysPieShopHRMEmployeeApp/obj/Debug/net5.0/BethanysPieShopHRMEmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomhooper/workspace/c-sharp-type-system/07/demos/BethanysPieShopHRMEmployeeApp/obj/Debug/net5.0/BethanysPieShopHRMEmployeeApp.AssemblyInfoInputs.cache
+/Users/tomhooper/workspace/c-sharp-type-system/07/demos/BethanysPieShopHRMEmployeeApp/obj/Debug/net5.0/BethanysPieShopHRMEmployeeApp.AssemblyInfo.cs
+/Users/tomhooper/workspace/c-sharp-type-system/07/demos/BethanysPieShopHRMEmployeeApp/obj/Debug/net5.0/BethanysPieShopHRMEmployeeApp.csproj.CoreCompileInputs.cache
+/Users/tomhooper/workspace/c-sharp-type-system/07/demos/BethanysPieShopHRMEmployeeApp/obj/Debug/net5.0/BethanysPieShopHRMEmployeeApp.dll
+/Users/tomhooper/workspace/c-sharp-type-system/07/demos/BethanysPieShopHRMEmployeeApp/obj/Debug/net5.0/ref/BethanysPieShopHRMEmployeeApp.dll
+/Users/tomhooper/workspace/c-sharp-type-system/07/demos/BethanysPieShopHRMEmployeeApp/obj/Debug/net5.0/BethanysPieShopHRMEmployeeApp.pdb
+/Users/tomhooper/workspace/c-sharp-type-system/07/demos/BethanysPieShopHRMEmployeeApp/obj/Debug/net5.0/BethanysPieShopHRMEmployeeApp.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BethanysPieShopHRMEmployeeApp/1.0.0": {
+        "runtime": {
+          "BethanysPieShopHRMEmployeeApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BethanysPieShopHRMEmployeeApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
