@@ -30,6 +30,7 @@ namespace BethanysPieShopHRMEmployeeApp
                 Console.WriteLine("2: Register work hours for employee");
                 Console.WriteLine("3: Pay employee");
                 Console.WriteLine("4: Update employee hourly rate");
+                Console.WriteLine("5: Add an employee bonus");
                 Console.WriteLine("9: Quit application");
 
                 userSelection = Console.ReadLine();
@@ -44,6 +45,8 @@ namespace BethanysPieShopHRMEmployeeApp
                         break;
                     case "4": UpdateHourlyRate();
                         break;
+                    case "5": AddBonus();
+                        break;
                     case "9": break;
                     default:
                         Console.WriteLine("Invalid selection. Please try again.");
@@ -55,6 +58,26 @@ namespace BethanysPieShopHRMEmployeeApp
             Console.WriteLine("Thanks for using the application");
             Console.Read();
 
+        }
+
+        private static void AddBonus()
+        {
+            Console.WriteLine("Select an employee");
+
+            for (int i = 0; i < employees.Count; i++)
+            {
+                Console.WriteLine($"{i + 1}: {employees[i].FirstName} {employees[i].LastName}");
+            }
+
+            int selection = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Enter bonus amount: ");
+
+            int bonus = int.Parse(Console.ReadLine());
+
+            employees[selection - 1].Bonus = bonus;
+
+            Console.WriteLine("Bonus added!\n\n");
         }
 
         private static void UpdateHourlyRate()
@@ -129,9 +152,10 @@ namespace BethanysPieShopHRMEmployeeApp
 
             Employee selectedEmployee = employees[selection - 1];
             int hoursWorked;
-            double receivedWage = selectedEmployee.ReceiveWage(out hoursWorked);
+            double currentBonus;
+            double receivedWage = selectedEmployee.ReceiveWage(out hoursWorked, out currentBonus);
             
-            Console.WriteLine($"{selectedEmployee.FirstName} {selectedEmployee.LastName} has received a wage of {receivedWage}. The hours worked is reset to {hoursWorked}.\n\n");
+            Console.WriteLine($"{selectedEmployee.FirstName} {selectedEmployee.LastName} has received a wage of {receivedWage}. The hours worked is reset to {hoursWorked} and the bonus is reset to {currentBonus}.\n\n");
         }
     }
 }
